@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Commit 2
-=======
-Commit 1
->>>>>>> conflict
+feature 1
+
